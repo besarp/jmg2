@@ -1,12 +1,14 @@
-# React Data Presentation App
+# React Articles Application
 
-This React application presents data in a visually appealing format with proper separation and color usage. The project includes modern UI techniques to enhance user experience.
+This project is a small React application that uses Redux to fetch a list of articles from a REST API and display them in a user-friendly manner. The application includes features like filtering, sorting, and pagination to enhance the user experience.
 
 ## Features
 
-- Dynamically displays data in a clean, organized format
-- Uses React components for modular and maintainable code
-- Enhanced UI with creative styling and color usage
+- Fetches articles from a REST API using Redux
+- Implements filtering to narrow down articles based on specific criteria
+- Sorting functionality to organize articles by date, title, etc.
+- Pagination to navigate through a large set of articles
+- Responsive design for a seamless experience across devices
 
 ## Prerequisites
 
@@ -23,12 +25,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 1. **Clone the repository:**
 
 ```bash
-   git clone https://github.com/besarp/jmg2.git
-```
-
-2. **Navigate to the project directory:**
-
-```bash
+    git clone https://github.com/besarp/jmg2.git
     cd jmg2
 ```
 
