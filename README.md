@@ -1,6 +1,6 @@
 # React Data Presentation App
 
-This React application presents data in a visually appealing format with proper separation and color usage. The project includes modern UI techniques to enhance user experience.
+This React application presents data in a visually appealing format with proper separation and color usage.
 
 ## Features
 
