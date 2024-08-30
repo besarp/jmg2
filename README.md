@@ -1,10 +1,6 @@
 # React Articles Application
 
-<<<<<<< HEAD
 This project is a small React application that uses Redux to fetch a list of articles from a REST API and display them in a user-friendly manner. The application includes features like filtering, sorting, and pagination to enhance the user experience.
-=======
-This React application presents data in a visually appealing format with proper separation and color usage.
->>>>>>> a4f49a6956b465c7dedaea29ff0b72273c9f81e8
 
 ## Features
 
